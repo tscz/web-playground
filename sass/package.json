@@ -1,0 +1,13 @@
+{
+  "name": "sass-playground",
+  "version": "1.0.0",
+  "description": "Playground for Sass",
+  "main": "index.html",
+  "scripts": {
+    "compile": "sass src:dist/css"
+  },
+  "author": "",
+  "devDependencies": {
+    "sass": "^1.32.0"
+  }
+}
